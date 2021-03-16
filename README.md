@@ -2,6 +2,10 @@
 
 💬 My name is Michael Jones and I'm currently a student at Boise Codeworks. I moved to Boise 5 years ago from Indiana, where I was born and raised. I'm a graduate from Purdue University, with a Bachelor's Degree in Forensic Anthropology. Fun Fact! I also have a twin brother who codes aswell here in Boise! 
 
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<JonesyJava>&theme=<dark>" />
+
+
+
 Thank you for checking out my page and feel free to reach out if you like what you see!
 
 
