@@ -6,9 +6,10 @@ Fun Fact! I also have a twin brother who codes aswell here in Boise!
 
 [![Jonesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesyjava&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+--
 
 
-Thank you for checking out my page and feel free to reach out if you like what you see!
+Thank you for checking out my page and feel free to reach out if you like what you see!:smiley:
 
 
 <!--
