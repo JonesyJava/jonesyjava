@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there Fellow Devs and Humans! 👋
 
-💬 My name is Michael Jones and I'm currently a student at Boise Codeworks. I moved to Boise 5 years ago from Indiana, where I was born and raised. I'm a graduate from Purdue University, with a Bachelor's Degree in Forensic Anthropology. Fun Fact! I also have a twin brother who codes aswell here in Boise! 
+💬 I'm Michael Jones and I'm currently a student at Boise Codeworks becoming a Fullstack Developer. I'm a graduate from Purdue University, with a Bachelor's Degree in Forensic Anthropology. I have a passion for Coding, Human Interaction, and Sciences. Understanding how humans utilize and interact with technology is an obsession I've had since being gifted my first computer in 1995.
+
+Fun Fact! I also have a twin brother who codes aswell here in Boise! 
 
 [![Jonesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesyjava&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
