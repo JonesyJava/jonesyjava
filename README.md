@@ -8,7 +8,7 @@
 
 --:books: I'm currently learning the following • C#/.NET • MySQL • Parallax Scrolling 
 
-⚡Fun Facts: My Twin Brother is a FullStack Developer • I'm a Comic Book Collector/Seller • I've lived in the Brazilian Amazon Rainforest for a full year! 
+--⚡Fun Facts: My Twin Brother is a FullStack Developer • I'm a Comic Book Collector/Seller • I've lived in the Brazilian Amazon Rainforest for a full year! 
 
 Thanks for checking out my page and feel free to reach out if you like what you see!:smiley:
 
