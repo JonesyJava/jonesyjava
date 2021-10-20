@@ -1,12 +1,12 @@
 ### Hello Fellow Devs! 👋
 
-💬 I'm Michael Jones and I'm currently a Teaching Assistant at Boise Codeworks. I'm a graduate from both Boise Codeworks & Purdue University. I graduated from Purdue with a Bachelor's Degree in Forensic Anthropology and recieved my fullstack developers certification of completion from Boise Codeworks. I have a passion for Coding, Human Interaction, and Sciences. Understanding how humans utilize and interact with technology is an obsession I've had since being gifted my first computer in 1995.
+💬 My name is Michael Jones and I'm currently a Teaching Assistant at Boise Codeworks. I'm a graduate from both Boise Codeworks & Purdue University. I graduated from Purdue with a Bachelor's Degree in Forensic Anthropology and recieved my fullstack developers certification of completion from Boise Codeworks. I have a passion for Coding, Human Interaction, and Sciences. Understanding how humans utilize and interact with technology is an obsession I've had since being gifted my first computer in 1995.
 
 [![Jonesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesyjava&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
---:bulb: I'm pretty good at the following • HTML • CSS • JavaScript • Bootstrap • MVC Patterns • MongoDB • Node.js • Express • Vue.js 2.0/3.0 • C#/.NET • MySQL • Parallax Scrolling
+--:bulb: • HTML • CSS • JavaScript • Bootstrap • MVC Patterns • MongoDB • Node.js • Express • Vue.js 2.0/3.0 • C#/.NET • MySQL • Parallax Scrolling
 
---:books: I'm currently learning the following • Python • Jasmine Testing • Test Driven Development Methods 
+--:books: Currently learning the following • Python • Jasmine Testing • Test Driven Development Methods 
 
 --⚡Fun Facts: My Twin Brother is a FullStack Developer • I'm a Comic Book Collector/Seller • I've lived in the Brazilian Amazon Rainforest for a full year! 
 
