@@ -10,7 +10,7 @@
 
 --⚡Fun Facts: My Twin Brother is a FullStack Developer • I'm a Comic Book Collector/Seller • I've lived in the Brazilian Amazon Rainforest for a full year! 
 
---📫 How to Reach Me: LinkedIn: https://www.linkedin.com/in/majones2170/
+--📫 How to Reach Me: LinkedIn: https://www.linkedin.com/in/jonesyjava/
 
 Thanks for checking out my page and feel free to reach out if you like what you see!:smiley:
 
