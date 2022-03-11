@@ -1,6 +1,6 @@
 ### Hello Fellow Devs! 👋
 
-💬 My name is Michael Jones and I'm currently the Brand and Business Development Manager at Boise Codeworks. I'm a graduate from both Boise Codeworks & Purdue University. I graduated from Purdue with a Bachelor's Degree in Forensic Anthropology and recieved my fullstack developers certification of completion from Boise Codeworks. I have a passion for Coding, Human Interaction, and Sciences. Understanding how humans utilize and interact with technology is an obsession I've had since being gifted my first computer in 1995.
+💬 My name is Michael Jones and I'm currently a Software Developer at Plextrac. I'm a graduate from both Boise Codeworks & Purdue University. I graduated from Purdue with a Bachelor's Degree in Forensic Anthropology and recieved my fullstack developers certification of completion from Boise Codeworks. I have a passion for Coding, Human Interaction, and Sciences. Understanding how humans utilize and interact with technology is an obsession I've had since being gifted my first computer in 1995.
 
 [![Jonesy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jonesyjava&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
